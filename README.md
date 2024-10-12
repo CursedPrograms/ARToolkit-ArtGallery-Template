@@ -17,6 +17,9 @@
 # ARToolkit-ArtGallery-Template
 
 (Current .apk uses the kanji pattern.)
+https://github.com/CursedPrograms/ARToolkit-Unity-Template/blob/main/doc/patterns/Kanji%20pattern.pdf
+
+<br>
 
 https://github.com/CursedPrograms/Augmented-Reality-Resources
 
