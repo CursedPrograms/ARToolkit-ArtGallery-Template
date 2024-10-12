@@ -16,6 +16,8 @@
 
 # ARToolkit-ArtGallery-Template
 
+https://github.com/CursedPrograms/Augmented-Reality-Resources
+
 <br>
 <div align="center">
   <img src="https://github.com/CursedPrograms/ARToolkit-ArtGallery-Template/blob/main/demo.png" alt="Alt text">
