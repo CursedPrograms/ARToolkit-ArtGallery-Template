@@ -29,11 +29,6 @@ For more information on the Kanji pattern used in the current .apk, refer to the
 
 <br>
 
-## Additional Resources
-
-Explore more augmented reality resources here:  
-[Augmented Reality Resources](https://github.com/CursedPrograms/Augmented-Reality-Resources)
-
 ### Downloads and Tools
 
 - **Android Studio**: [Download Android Studio 3.2.1.0](https://developer.android.com/studio/archive)
@@ -46,6 +41,11 @@ Explore more augmented reality resources here:
 
 - GitHub Repository: [ar.js](https://github.com/CursedPrograms/ar.js)
 - Live Demo: [Augmented Reality JS](https://augmented-reality-js.netlify.app/)
+
+## Additional Resources
+
+Explore more augmented reality resources here:  
+[Augmented Reality Resources](https://github.com/CursedPrograms/Augmented-Reality-Resources)
 
 ## Disclaimer
 
