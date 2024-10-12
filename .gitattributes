@@ -3,11 +3,6 @@
 *.json linguist-documentation=false
 *.json linguist-detectable=true
 
-*.txt linguist-vendored=false
-*.txt linguist-generated=false
-*.txt linguist-documentation=false
-*.txt linguist-detectable=true
-
 *.obj linguist-vendored=false
 *.obj linguist-generated=false
 *.obj linguist-documentation=false
