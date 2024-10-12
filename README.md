@@ -17,9 +17,9 @@
 # ARToolkit-ArtGallery-Template
 
 <br>
-
-![Alt text](https://github.com/CursedPrograms/ARToolkit-ArtGallery-Template/blob/main/demo.png)
-
+<div align="center">
+  <img src="https://github.com/CursedPrograms/ARToolkit-ArtGallery-Template/blob/main/demo.png" alt="Alt text">
+</div>
 <br>
 
 - **Android Studio**: [Download Android Studio 3.2.1.0](https://developer.android.com/studio/archive)
