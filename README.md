@@ -20,7 +20,7 @@ https://github.com/CursedPrograms/Augmented-Reality-Resources
 
 <br>
 <div align="center">
-  <img src="https://github.com/CursedPrograms/ARToolkit-ArtGallery-Template/blob/main/demo.png" alt="Alt text">
+  <img src="https://github.com/CursedPrograms/ARToolkit-ArtGallery-Template/blob/main/demo.gif" alt="Alt text">
 </div>
 <br>
 
