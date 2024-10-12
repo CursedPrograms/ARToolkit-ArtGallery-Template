@@ -14,7 +14,7 @@
 </div>
 <br>
 
-# Augmented-Reality-ArtGallery-Template
+# ARToolkit-ArtGallery-Template
 
 
 - **Android Studio**: [Download Android Studio 3.2.1.0](https://developer.android.com/studio/archive)
