@@ -37,7 +37,7 @@ This project is focused solely on the preservation of software and the potential
 
 <br>
 <div align="center">
-Cursed Entertainment 2024
+© Cursed Entertainment
 </div>
 <br>
 <div align="center">
@@ -45,4 +45,5 @@ Cursed Entertainment 2024
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo" style="width:250px;">
 </a>
+</div>
 
