@@ -29,7 +29,7 @@
 
 ## Current .apk Uses the Kanji Pattern
 
-For more information on the Kanji pattern used in the current .apk, refer to the document below:  
+Kanji pattern used in the current .apk, refer to the document below:  
 [Kanji Pattern PDF](https://github.com/CursedPrograms/ARToolkit-Unity-Template/blob/main/doc/patterns/Kanji%20pattern.pdf)
 
 <br>
