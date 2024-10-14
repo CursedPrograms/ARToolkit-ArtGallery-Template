@@ -52,10 +52,6 @@ Kanji pattern used in the current .apk, refer to the document below:
 Explore more augmented reality resources here:  
 [Augmented Reality Resources](https://github.com/CursedPrograms/Augmented-Reality-Resources)
 
-## Disclaimer
-
-This project is focused solely on the preservation of software and the potential updates for modern systems. We would like to clarify that Cursed Entertainment, its CEO, or any of its subsidiaries are not affiliated with the original ARToolkit developers. Our intention is to continue the valuable work initiated by the original developers and to contribute to the ongoing relevance and usability of ARToolkit.
-
 <br>
 <div align="center">
 © Cursed Entertainment
